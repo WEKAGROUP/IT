@@ -1,0 +1,5 @@
+site_name: WEKA IT Dokumentation
+theme: readthedocs
+nav:
+  - Home: start.md
+  - Serverinfrastruktur: serverinfrastruktur.md
